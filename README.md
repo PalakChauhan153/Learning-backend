@@ -1,1 +1,1 @@
-This project is the tutorial for intro to backend
+This project is the tutorial for intro to backend.
